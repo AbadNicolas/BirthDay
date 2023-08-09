@@ -1,4 +1,4 @@
-const targetDate = new Date("2024-05-08T00:00:00").getTime();
+const targetDate = new Date("2023-08-24T00:00:00").getTime();
 
 // Update the countdown every second
 const countdownInterval = setInterval(updateCountdown, 1000);
